@@ -1,0 +1,161 @@
+
+html{
+	font-family: 'Oswald', sans-serif;
+	font-family: 'Playfair', serif;
+}
+
+
+
+/*CABEÇALHO*/
+
+.paginas{
+	position: relative;
+	display: inline-block;
+	width: 1000px;
+	
+}
+
+.logo{
+	position: absolute;
+	width: 30%;
+}
+
+body{
+	background-color: #292824;
+	margin-top: 3%;
+}
+
+nav{
+	margin-left: 35%;
+	display: inline;
+}
+nav li{
+	display: inline;
+	text-transform: uppercase;
+	margin-left: 3%;
+}
+nav a{
+	text-decoration: none;
+	color: #FFCB04;
+	font-weight: bold;
+	font-size: 20px;
+
+}
+
+nav a:hover{
+	font-size: 23px;
+	color: #CCC;
+}
+
+/*PAGINA INICIAL*/
+
+
+/*SOBRE A GENTE*/
+
+.container{
+	background-color: #3d3c36;
+	position: relative;
+    text-align: center;
+	width: 100%;
+	margin-top: 10%;
+}
+
+.produto{
+	width: 50%;
+}
+
+.sobre{
+	position: absolute;
+	color: #FFF;
+	font-weight: bold;
+	font-size: 200%;
+	margin-top: 20%;
+	margin-left: 27%;
+	text-shadow: #000 2px 2px 2px;
+}
+
+.textosobre{
+	position: absolute;
+	color: #FFF;
+	text-align: left;
+	font-size: 150%;
+	margin-top: 23%;
+	margin-left: 27%;
+	margin-rigth: 25%;
+	text-shadow: #000 2px 2px 2px;
+}
+
+.botaosobre{
+	position: absolute;
+	font-size: 150%;
+	margin-top: 32%;
+	margin-left: 1%;
+	margin-rigth: 25%;
+	border-radius: 30px;
+	border-color: #FFCB04;
+	border-width: 15px;
+	background-color: #FFCB04;
+	color: #FFF;
+	font-weight: bold;
+	text-shadow: #292824 2px 3px 2px;
+}
+
+/* AVALIAÇÕES */
+
+.avaliacao{
+	margin-top: 5%;
+	background-color: #3d3c36;
+}
+
+.titulo1{
+	margin-left: 30%;
+	font-size: 225%;
+	font-weight: bold;
+	text-shadow: #292824 2px 2px 2px;
+	position: absolute;
+	color: #FFF;
+}
+
+.imagem-produto{
+	margin-top: 5%;
+
+}
+
+.titulo2{
+	position: absolute;
+	margin-top: 25%;
+	font-size: 25px;
+	font-weight: bold;
+	text-shadow: #292824 2px 2px 2px;
+	color: #FFF;
+}
+
+.descricao{
+	position: absolute;
+	margin-top: 30%;
+	font-size: 20px;
+	text-shadow: #292824 2px 2px 2px;
+	color: #FFF;
+}
+
+.produtos li{
+	display: inline-block;
+	margin-top: 7%;
+	margin-left: 5%;
+}
+
+/* FORMULÁRIO PARA RECEBER PROMOÇÕES */
+
+.titulo-formulario{
+	margin-top: 2% ;
+	margin-left: 15%;
+	position: absolute;
+	text-align: center;
+	font-weight: bold;
+	font-size: 45px;
+	color: #FFF;
+}
+
+.imagem-fundo{
+	width: 100%;
+}

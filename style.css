@@ -4,7 +4,6 @@ html{
 }
 
 
-
 /*CABEÇALHO*/
 
 .paginas{
@@ -16,7 +15,7 @@ html{
 
 .logo{
 	position: absolute;
-	width: 30%;
+	width: 40%;
 }
 
 body{
@@ -26,7 +25,6 @@ body{
 
 nav{
 	margin-left: 35%;
-	display: inline;
 }
 nav li{
 	display: inline;
@@ -207,12 +205,21 @@ select{
 }
 /* MAPA */
 
+.localizacao{
+	background: linear-gradient(180deg, #292824 0%, #151515 100%);
+}
+
+iframe{
+	margin-left: 30%;
+	margin-top: 10%;
+	margin-bottom: 5%;
+}
 
 
 /* RODAPÉ */
 
 footer{
-	background: linear-gradient(90deg, #292824 0%, #312f2a 100%);
+	background-color: #292824;
 }
 
 .logo2{
@@ -241,4 +248,55 @@ footer{
 
 .imagem-footer:hover{
 	width: 4%;
+}
+
+.horario-footer{
+	font-style: bold;
+	color:#FFCB04;
+	font-size: 20px;
+	margin-left: 30%;
+	margin-bottom: 20px;
+	position: relative;
+
+}
+
+table {
+  border-collapse: collapse;
+  width: 30%;
+}
+
+th, td {
+  padding: 8px;
+  text-align: left;
+  border-bottom: 1px solid #FFCB04;
+}
+
+
+/* FIM DA PAGINA INICIAL */
+
+
+/* NOSSA HISTORIA */
+
+
+.escrita{
+    font-size: 35px;
+    margin-top: 5%;
+    margin-bottom: 1%;
+    text-align: center;
+	color: white;
+	background-color: #3d3c36;
+	padding-bottom: 5%;
+	padding-top: 5%;
+}
+
+.titulo-escrita{
+	font-size: 50px;
+	text-shadow: #292824 2px 2px 2px;
+	font-weight: bold;
+}
+
+.dedicatoria{
+    font-size: 30px;
+	font-style: italic;
+	text-align: left;
 }

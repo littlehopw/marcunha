@@ -1,16 +1,15 @@
 
 # Marcunha Móveis Planejados
 
-Primeiro site feito em HTML e CSS, com o intúito de entregar para conclusão da matéria "Fundamentos de Web Design" da faculdade de Análise e Desenvolvimento de Sistemas, no IFTM - Campus Uberaba Parque Tecnológico.
+Primeiro site feito em HTML e CSS, com o intuito de entregar para conclusão da matéria "Fundamentos de Web Design" da faculdade de Análise e Desenvolvimento de Sistemas, no IFTM - Campus Uberaba Parque Tecnológico.
 
 
-## 🚀 Sobre mim
+# 🚀 Sobre mim
 
 💻 Estudo atualmente no Instituto Federal do Triângulo Mineiro, cursando Análise e Desenvolvimento de Sistemas.
 
 
-
-## 🔗 Links
+# 🔗 Onde me encontrar
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/littlehopw) 
 
